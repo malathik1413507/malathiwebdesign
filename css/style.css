@@ -148,3 +148,17 @@ footer p{
     color: #f3f3f3;
     font-weight: 500;
 }
+@media screen and (max-width:768px){
+.our-works .news-detail{
+    margin-bottom: 30px;
+   
+    }
+}
+@media screen and (max-width:768px){
+    .services .icon-details{
+	margin-bottom: 30px;
+}
+}
+.news-detail img{
+    width: 100%;
+}
